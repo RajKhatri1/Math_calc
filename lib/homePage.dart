@@ -11,7 +11,7 @@ class code extends StatefulWidget {
 class _codeState extends State<code> {
   String v = "", b = "", c = "", o = "", ans = "";
 
-  int fi = 0, di = 0;
+  int fi = 0, di= 0;
 
   @override
   Widget build(BuildContext context) {
